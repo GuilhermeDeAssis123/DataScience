@@ -25,6 +25,9 @@ https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_Data_Scie
 * **Análise sobre os índices de violência no Rio de Janeiro**:
 https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_DataScience(An%C3%A1lise%20da%20viol%C3%AAncia%20no%20RJ).ipynb
 
+* **Previsão de salário com base na experiência de profissão:**
+https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Previs%C3%A3o_de_sal%C3%A1rio(Machine_Learning_A_to_Z_section04_Simple_Linear_Regression).ipynb
+
 ---
 
 
