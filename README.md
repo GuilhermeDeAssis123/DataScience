@@ -19,6 +19,9 @@ My credentials include a graduation (in course) on Computer Science at UNIFEI an
 
 * **Análise das melhores hospedagens via AirB&B em Amsterdã:** https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_Data_Science(AirB%26B).ipynb
 
+**Análise da chance de sobrevivência no Titanic**:
+https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_Data_Science(Titanic).ipynb
+
 
 ---
 
