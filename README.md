@@ -28,7 +28,7 @@ https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_DataScien
 * **Previsão de salário com base na experiência de profissão:**
 https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Previs%C3%A3o_de_sal%C3%A1rio(Machine_Learning_A_to_Z_section04_Simple_Linear_Regression).ipynb
 
-* **Análise exploratória sobre doenças cardiovasculares:**
+* **Detecção de doenças cardiovasculares:**
 https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_Data_Science(Doen%C3%A7as_Cardiovasculares).ipynb
 
 * **Detecção de Fraude em Cartões de Crédito:**
