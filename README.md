@@ -31,6 +31,8 @@ https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Previs%C3%A3o_de_
 * **Análise exploratória sobre doenças cardiovasculares:**
 https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_Data_Science(Doen%C3%A7as_Cardiovasculares).ipynb
 
+* **Detecção de Fraude em Cartões de Crédito:**
+https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_de_Data_Science_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb
 ---
 
 
