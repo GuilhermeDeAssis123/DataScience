@@ -33,6 +33,12 @@ https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_Data_Scie
 
 * **Detecção de Fraude em Cartões de Crédito:**
 https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_de_Data_Science_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb
+
+* **Churn Prediction de empresa telefônica**
+https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_de_Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb
+
+* **Panoroma do COVID_19 no Brasil em 2020**
+https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Panorama_do_COVID_19_no_Brasil_Mundo.ipynb
 ---
 
 
