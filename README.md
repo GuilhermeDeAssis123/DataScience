@@ -39,6 +39,12 @@ https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Projeto_de_Churn_
 
 * **Panoroma do COVID_19 no Brasil em 2020**
 https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Panorama_do_COVID_19_no_Brasil_Mundo.ipynb
+
+* **Análise descritiva sobre o Orçamento das Despesas Públicas**
+https://github.com/GuilhermeDeAssis123/DataScience/blob/master/An%C3%A1lise_descritiva_sobre_o_Or%C3%A7amento_das_Despesas_P%C3%BAblicas.ipynb
+
+* **Modelo de previsão de detecção de covid via análise de espctrometria**
+https://github.com/GuilhermeDeAssis123/DataScience/blob/master/Modelo_SVM_COVID19(Dados_P%C3%BAblicos).ipynb
 ---
 
 
